@@ -63,7 +63,7 @@ input:focus
 {
     display: block;
     border-radius:10px;
-    border-color: black; 	
+    border-color: green; 	
 }
 textarea
 {
